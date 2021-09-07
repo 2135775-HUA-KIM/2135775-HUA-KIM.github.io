@@ -1,0 +1,43 @@
+#titrePage {
+    color:red;
+    font-size:3em;
+    text-align: center;
+}
+
+.paragraphe {
+ text-align: justify;
+ 
+}
+
+.L {
+    color: purple;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.N {
+    color: seagreen;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.C{
+    color: seagreen;
+    font-size: 2em;
+    font-style: italic;
+}
+.S{
+    color: seagreen;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.V{
+    color: seagreen;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#consignes:hover{
+    color: rosybrown;
+}
